@@ -15,7 +15,7 @@ For any query or want to know how it works join
 Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/udhay018777/ReaperUserbot/
-cd Indianbot
+cd ReaperUserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
