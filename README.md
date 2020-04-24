@@ -1,4 +1,4 @@
-# IndianBot
+# ReaperBot
 
 For any query or want to know how it works join
 # https://t.me/reaperbot_official
