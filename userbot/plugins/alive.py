@@ -15,8 +15,8 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("`NIGGA! I am still alive ^.^ \nYour bot is running\n\nTelethon version: 6.9.0\nPython: 3.7.3\n\n`"
                      f"`My owner is the nubes of all. Contact him here`: {DEFAULTUSER}\n\n"
-                     "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @pureindialover\n"
-                     "`Database Status: Databases functioning normally!\n\nAlways with you, my noob owner @grimreapeer!\n`"
+                     "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @GrimReeper\n"
+                     "`Database Status: Databases functioning normally!\n\nAlways with you, my noob owner!\n`"
                      "[Deploy this userbot Now](https://github.com/udhay018777/ReaperUserbot)\n\n"
-                    "[Bot Creator](https://t.me/grimreapeer)") 
+                    "[Bot Creator](https://t.me/grimreapeer)"
 
