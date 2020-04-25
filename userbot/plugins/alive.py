@@ -14,8 +14,8 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars 
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("`NIGGA! I am still alive ^.^ \nYour bot is running\n\nTelethon version: 6.9.0\nPython: 3.7.3\n\n`"
-                     f"`My owner is the nubes of all. Contact him here`: {DEFAULTUSER}\n\n"
-                     "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @GrimReeper\n"
+                     f"`My owner is the nubest of all. Contact him here`: {DEFAULTUSER}\n\n"
+                     "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @GrimReapeer\n"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my noob owner!\n`"
                      "[Deploy this userbot Now](https://github.com/udhay018777/ReaperUserbot)\n\n"
                     "[Bot Creator](https://t.me/grimreapeer)") 
