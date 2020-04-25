@@ -18,5 +18,5 @@ async def amireallyalive(alive):
                      "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @GrimReeper\n"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my noob owner!\n`"
                      "[Deploy this userbot Now](https://github.com/udhay018777/ReaperUserbot)\n\n"
-                    "[Bot Creator](https://t.me/grimreapeer)"
+                    "[Bot Creator](https://t.me/grimreapeer)") 
 
