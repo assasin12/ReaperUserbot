@@ -15,7 +15,7 @@ from userbot import ALIVE_NAME
 from userbot.utils import admin_cmd
 
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba, join our channel @IndianArMyGiveaway"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba,Go set a name you boob, I mean NOOB!"
 PREV_REPLY_MESSAGE = {}
 
 
